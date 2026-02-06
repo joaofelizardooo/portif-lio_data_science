@@ -1,2 +1,2 @@
-# portif-lio_data_science
+# portifolio_data_science
 Meu portifólio de projetos de data science
